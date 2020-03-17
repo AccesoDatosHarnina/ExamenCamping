@@ -3,7 +3,7 @@
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="vista.UI" project="ExamenCamping" file="/ExamenCamping/src/vista/UI.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1460" y="261"/>    
+    <position height="-1" width="-1" x="1715" y="226"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -12,7 +12,7 @@
   </class>  
   <class id="2" language="java" name="control.ParaUI" project="ExamenCamping" 
     file="/ExamenCamping/src/control/ParaUI.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1124" y="175"/>    
+    <position height="-1" width="-1" x="1399" y="86"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -21,7 +21,7 @@
   </class>  
   <class id="3" language="java" name="control.Principal" project="ExamenCamping" 
     file="/ExamenCamping/src/control/Principal.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1151" y="531"/>    
+    <position height="-1" width="-1" x="1430" y="581"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -30,7 +30,7 @@
   </class>  
   <class id="4" language="java" name="control.Controlador" project="ExamenCamping" 
     file="/ExamenCamping/src/control/Controlador.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="799" y="273"/>    
+    <position height="-1" width="-1" x="1117" y="293"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
